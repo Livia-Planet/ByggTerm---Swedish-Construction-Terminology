@@ -1,0 +1,8 @@
+{
+  "name": "260918-05 ByggTerm - Swedish Construction Terminology",
+  "description": "Trilingual Swedish, Chinese, and English construction \u0026 civil engineering terminology dictionary, flashcards, and interactive quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
